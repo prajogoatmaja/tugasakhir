@@ -25,4 +25,30 @@
       "time": "9172"
     }
   ]
+  "ready": [
+    {
+      "id": 1,
+      "time": "Ready"
+    },
+    {
+      "id": 2,
+      "time": "Ready"
+    },
+    {
+      "id": 3,
+      "time": "Ready"
+    },
+    {
+      "id": 4,
+      "time": "Ready"
+    },
+    {
+      "id": 5,
+      "time": "Ready"
+    },
+    {
+      "id": 6,
+      "time": "Ready"
+    }
+  ]
 }
